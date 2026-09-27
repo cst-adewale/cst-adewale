@@ -87,5 +87,5 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your-email@example.com">Get in touch →</a>
+  <a href="mailto:gospel.adewale7@gmail.com">Get in touch →</a>
 </p>
